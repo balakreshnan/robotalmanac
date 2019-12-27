@@ -1,5 +1,9 @@
 # The Robot and Automation Almanac - 2020: The Futurist Institute - Book
 
+# Title:
+
+# The Democratization of computing and manufacturing evolution into the era of artificial intelligence.
+
 ## Article from the above book which i wrote with my few friends
 
 ![alt text](https://github.com/balakreshnan/robotalmanac/blob/master/page49.JPG "Page 1")
