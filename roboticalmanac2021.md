@@ -1,4 +1,4 @@
-# The Robot and Automation Almanac - 2020: The Futurist Institute - Book
+# The Robot and Automation Almanac - 2021: The Futurist Institute - Book
 
 # Title:
 
